@@ -1,5 +1,9 @@
-# blogtest
-rurururur.ru Blog
-# Добро пожаловать на наш тестовый сайт!
-![Yeti 51](https://user-images.githubusercontent.com/101564992/158374330-f3c77512-a1c8-4517-8c02-93e5c6c24d35.png)
-Желаем вам удачи в создании сайтов <3
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "teamId.com.bundleId.of.your.app",
+            "paths": ["/path-for-redirectionl/*"]
+        }]
+    }
+}
